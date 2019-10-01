@@ -19,5 +19,5 @@ Link to [all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
 How do I add an image? Unicorns and cats are good.
 
-![An old-fashioned unicorn](https://commons.wikimedia.org/wiki/Unicorn#/media/File:DomenichinounicornPalFarnese.jpg)
+![An old-fashioned unicorn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DomenichinounicornPalFarnese.jpg/1280px-DomenichinounicornPalFarnese.jpg)
 
