@@ -1,3 +1,5 @@
-## Report on Soft Carp
+# Softcarp Report
 
-Not much in there yet
+Description of the repository
+
+https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3
