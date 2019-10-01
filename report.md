@@ -12,3 +12,12 @@ The **Software Carpentry** workshop was held at UQ on 30th of Sept. - 1st of Oct
 ## What I didn't like
 
 * Steph's humour
+
+## Look for markdown syntax
+
+Link to [all RStudio cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
+How do I add an image? Unicorns and cats are good.
+
+![An old-fashioned unicorn](https://commons.wikimedia.org/wiki/Unicorn#/media/File:DomenichinounicornPalFarnese.jpg)
+
