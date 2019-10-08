@@ -21,6 +21,9 @@ How do I add an image? Unicorns and cats are good.
 
 ![An old-fashioned unicorn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DomenichinounicornPalFarnese.jpg/1280px-DomenichinounicornPalFarnese.jpg)
 
+But unicorn cats are better
+![](https://image.shutterstock.com/z/stock-vector-cute-unicorn-cat-for-the-design-of-posters-t-shirts-print-1033742467.jpg)
+
 ## To learn more
 
 * [The Carpentries](https://carpentries.org/team/)
